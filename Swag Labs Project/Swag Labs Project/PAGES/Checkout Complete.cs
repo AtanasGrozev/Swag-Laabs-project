@@ -13,5 +13,8 @@ namespace Swag_Labs_Project.PAGES
         {
             
         }
+        public IWebElement BackHomeButton => driver.FindElement(By.XPath("//button[@data-test='back-to-products']"));
+        public IWebElement CheckoutComplete => driver.FindElement(By.XPath("//span[@data-test='title']"));
+
     }
 }

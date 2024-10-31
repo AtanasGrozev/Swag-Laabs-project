@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Swag Labs Project\\",
+  "WorkspaceRootPath": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\swag labs project\\swag labs project\\tests\\view in your cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\tests\\view in your cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\yoana swag labs\\swag_labs_project\\swag labs project\\swag labs project\\tests\\checkout tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\tests\\checkout tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\yoana swag labs\\swag_labs_project\\swag labs project\\swag labs project\\pages\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\pages\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\yoana swag labs\\swag_labs_project\\swag labs project\\swag labs project\\tests\\checkout complete tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\tests\\checkout complete tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\yoana swag labs\\swag_labs_project\\swag labs project\\swag labs project\\pages\\checkout complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\pages\\checkout complete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|c:\\users\\atanas work\\desktop\\project swag labs - copy\\yoana swag labs\\swag_labs_project\\swag labs project\\swag labs project\\tests\\payment and overview tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C590C4-8896-4828-9727-7403360BABDD}|Swag Labs Project\\Swag Labs Project.csproj|solutionrelative:swag labs project\\tests\\payment and overview tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,15 +59,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "View In Your Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Swag Labs Project\\Swag Labs Project\\TESTS\\View In Your Cart.cs",
-              "RelativeDocumentMoniker": "Swag Labs Project\\TESTS\\View In Your Cart.cs",
-              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Swag Labs Project\\Swag Labs Project\\TESTS\\View In Your Cart.cs",
-              "RelativeToolTip": "Swag Labs Project\\TESTS\\View In Your Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAtAAAAAAAAAA==",
+              "Title": "Checkout Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Checkout Tests.cs",
+              "RelativeDocumentMoniker": "Swag Labs Project\\TESTS\\Checkout Tests.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Checkout Tests.cs",
+              "RelativeToolTip": "Swag Labs Project\\TESTS\\Checkout Tests.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwKEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T08:34:31.035Z",
+              "WhenOpened": "2024-10-31T11:34:32.942Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payment and OverView Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Payment and OverView Tests.cs",
+              "RelativeDocumentMoniker": "Swag Labs Project\\TESTS\\Payment and OverView Tests.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Payment and OverView Tests.cs",
+              "RelativeToolTip": "Swag Labs Project\\TESTS\\Payment and OverView Tests.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:52:35.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\PAGES\\Checkout.cs",
+              "RelativeDocumentMoniker": "Swag Labs Project\\PAGES\\Checkout.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\PAGES\\Checkout.cs",
+              "RelativeToolTip": "Swag Labs Project\\PAGES\\Checkout.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:36:28.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Checkout Complete.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\PAGES\\Checkout Complete.cs",
+              "RelativeDocumentMoniker": "Swag Labs Project\\PAGES\\Checkout Complete.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\PAGES\\Checkout Complete.cs",
+              "RelativeToolTip": "Swag Labs Project\\PAGES\\Checkout Complete.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:29:33.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Checkout Complete Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Checkout Complete Tests.cs",
+              "RelativeDocumentMoniker": "Swag Labs Project\\TESTS\\Checkout Complete Tests.cs",
+              "ToolTip": "C:\\Users\\Atanas Work\\Desktop\\Project Swag Labs - Copy\\Yoana Swag Labs\\Swag_Labs_Project\\Swag Labs Project\\Swag Labs Project\\TESTS\\Checkout Complete Tests.cs",
+              "RelativeToolTip": "Swag Labs Project\\TESTS\\Checkout Complete Tests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAgwE4AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T20:24:48.12Z"
             }
           ]
         }
